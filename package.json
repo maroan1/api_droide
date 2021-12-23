@@ -1,0 +1,15 @@
+{
+  "name": "api_droide",
+  "version": "1.0.0",
+  "description": "api_droide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm start & ./scripts/tests.sh"
+  },
+  "author": "Mario Romeu Antequera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
